@@ -1,0 +1,23 @@
+.container{
+    margin: 150px;
+    background-color: aqua;
+    height: 350px;
+    margin-right: 100px;
+    width: 600px;
+}
+.number
+{
+    text-align: right;
+    
+}
+.number img{
+    width: 50px;
+    height: 40px;
+    
+}
+.text{
+    padding-top: 40px;
+    width: 600px;
+    height: 100px;
+    background-color: lightgray;
+}
